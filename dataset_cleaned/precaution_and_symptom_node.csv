@@ -1,0 +1,163 @@
+,disease,precaution
+0,(vertigo) paroymsal  positional vertigo,avoid abrupt head movment
+1,(vertigo) paroymsal  positional vertigo,avoid sudden change in body
+2,(vertigo) paroymsal  positional vertigo,relax
+3,(vertigo) paroymsal  positional vertigo,lie down
+4,acne,avoid too many products
+5,acne,drink plenty of water
+6,acne,avoid fatty spicy food
+7,acne,bath twice
+8,aids,consult doctor
+9,aids,avoid open cuts
+10,aids,wear ppe if possible
+11,aids,follow up
+12,alcoholic hepatitis,medication
+13,alcoholic hepatitis,stop alcohol consumption
+14,alcoholic hepatitis,follow up
+15,alcoholic hepatitis,consult doctor
+16,allergy,apply calamine
+17,allergy,use ice to compress itching
+18,allergy,cover area with bandage
+19,arthritis,massage
+20,arthritis,exercise
+21,arthritis,use hot and cold therapy
+22,arthritis,try acupuncture
+23,bronchial asthma,seek help
+24,bronchial asthma,get away from trigger
+25,bronchial asthma,take deep breaths
+26,bronchial asthma,switch to loose cloothing
+27,cervical spondylosis,take otc pain reliver
+28,cervical spondylosis,exercise
+29,cervical spondylosis,use heating pad or cold pack
+30,cervical spondylosis,consult doctor
+31,chicken pox,use neem in bathing 
+32,chicken pox,avoid public places
+33,chicken pox,take vaccine
+34,chicken pox,consume neem leaves
+35,chronic cholestasis,consult doctor
+36,chronic cholestasis,eat healthy
+37,chronic cholestasis,anti itch medicine
+38,chronic cholestasis,cold baths
+39,common cold,take vapour
+40,common cold,drink vitamin c rich drinks
+41,common cold,avoid cold food
+42,common cold,keep fever in check
+43,dengue,avoid fatty spicy food
+44,dengue,keep mosquitos away
+45,dengue,keep hydrated
+46,dengue,drink papaya leaf juice
+47,diabetes ,consult doctor
+48,diabetes ,have balanced diet
+49,diabetes ,follow up
+50,diabetes ,exercise
+51,dimorphic hemmorhoids(piles),consume alovera juice
+52,dimorphic hemmorhoids(piles),avoid fatty spicy food
+53,dimorphic hemmorhoids(piles),consume witch hazel
+54,dimorphic hemmorhoids(piles),warm bath with epsom salt
+55,drug reaction,stop irritation
+56,drug reaction,stop taking drug
+57,drug reaction,consult nearest hospital
+58,drug reaction,follow up
+59,fungal infection,bath twice
+60,fungal infection,use detol or neem in bathing water
+61,fungal infection,keep infected area dry
+62,fungal infection,use clean cloths
+63,gastroenteritis,rest
+64,gastroenteritis,ease back into eating
+65,gastroenteritis,try taking small sips of water
+66,gastroenteritis,stop eating solid food for while
+67,gerd,avoid lying down after eating
+68,gerd,maintain healthy weight
+69,gerd,avoid fatty spicy food
+70,gerd,exercise
+71,heart attack,keep calm
+72,heart attack,chew or swallow asprin
+73,heart attack,call ambulance
+74,hepatitis a,consult nearest hospital
+75,hepatitis a,medication
+76,hepatitis a,wash hands through
+77,hepatitis a,avoid fatty spicy food
+78,hepatitis b,medication
+79,hepatitis b,vaccination
+80,hepatitis b,eat healthy
+81,hepatitis b,consult nearest hospital
+82,hepatitis c,medication
+83,hepatitis c,vaccination
+84,hepatitis c,eat healthy
+85,hepatitis c,consult nearest hospital
+86,hepatitis d,follow up
+87,hepatitis d,eat healthy
+88,hepatitis d,medication
+89,hepatitis d,consult doctor
+90,hepatitis e,consult doctor
+91,hepatitis e,rest
+92,hepatitis e,medication
+93,hepatitis e,stop alcohol consumption
+94,hypertension ,meditation
+95,hypertension ,get proper sleep
+96,hypertension ,salt baths
+97,hypertension ,reduce stress
+98,hyperthyroidism,use lemon balm
+99,hyperthyroidism,eat healthy
+100,hyperthyroidism,massage
+101,hyperthyroidism,take radioactive iodine treatment
+102,hypoglycemia,lie down on side
+103,hypoglycemia,check in pulse
+104,hypoglycemia,consult doctor
+105,hypoglycemia,drink sugary drinks
+106,hypothyroidism,reduce stress
+107,hypothyroidism,eat healthy
+108,hypothyroidism,get proper sleep
+109,hypothyroidism,exercise
+110,impetigo,soak affected area in warm water
+111,impetigo,remove scabs with wet compressed cloth
+112,impetigo,use antibiotics
+113,impetigo,consult doctor
+114,jaundice,consume milk thistle
+115,jaundice,medication
+116,jaundice,drink plenty of water
+117,jaundice,eat fruits and high fiberous food
+118,malaria,keep mosquitos out
+119,malaria,consult nearest hospital
+120,malaria,avoid oily food
+121,malaria,avoid non veg food
+122,migraine,reduce stress
+123,migraine,use poloroid glasses in sun
+124,migraine,consult doctor
+125,migraine,meditation
+126,osteoarthristis,salt baths
+127,osteoarthristis,acetaminophen
+128,osteoarthristis,follow up
+129,osteoarthristis,consult nearest hospital
+130,paralysis (brain hemorrhage),consult doctor
+131,paralysis (brain hemorrhage),massage
+132,paralysis (brain hemorrhage),eat healthy
+133,paralysis (brain hemorrhage),exercise
+134,peptic ulcer diseae,eliminate milk
+135,peptic ulcer diseae,limit alcohol
+136,peptic ulcer diseae,avoid fatty spicy food
+137,peptic ulcer diseae,consume probiotic food
+138,pneumonia,consult doctor
+139,pneumonia,rest
+140,pneumonia,medication
+141,pneumonia,follow up
+142,psoriasis,stop bleeding using pressure
+143,psoriasis,salt baths
+144,psoriasis,consult doctor
+145,psoriasis,wash hands with warm soapy water
+146,tuberculosis,rest
+147,tuberculosis,medication
+148,tuberculosis,cover mouth
+149,tuberculosis,consult doctor
+150,typhoid,medication
+151,typhoid,eat high calorie vegitables
+152,typhoid,consult doctor
+153,typhoid,antiboitic therapy
+154,urinary tract infection,take probiotics
+155,urinary tract infection,drink plenty of water
+156,urinary tract infection,drink cranberry juice
+157,urinary tract infection,increase vitamin c intake
+158,varicose veins,lie down flat and raise the leg high
+159,varicose veins,use vein compression
+160,varicose veins,use oinments
+161,varicose veins,dont stand still for long

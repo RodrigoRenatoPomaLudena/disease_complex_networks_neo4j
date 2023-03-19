@@ -1,0 +1,322 @@
+,disease,symptom
+0,(vertigo) paroymsal  positional vertigo,nausea
+1,(vertigo) paroymsal  positional vertigo,spinning movements
+2,(vertigo) paroymsal  positional vertigo,headache
+3,(vertigo) paroymsal  positional vertigo,loss of balance
+4,(vertigo) paroymsal  positional vertigo,vomiting
+5,(vertigo) paroymsal  positional vertigo,unsteadiness
+6,acne,blackheads
+7,acne,skin rash
+8,acne,scurring
+9,acne,pus filled pimples
+10,aids,patches in throat
+11,aids,extra marital contacts
+12,aids,high fever
+13,aids,muscle wasting
+14,alcoholic hepatitis,history of alcohol consumption
+15,alcoholic hepatitis,abdominal pain
+16,alcoholic hepatitis,fluid overload
+17,alcoholic hepatitis,swelling of stomach
+18,alcoholic hepatitis,vomiting
+19,alcoholic hepatitis,distention of abdomen
+20,alcoholic hepatitis,yellowish skin
+21,allergy,continuous sneezing
+22,allergy,watering from eyes
+23,allergy,chills
+24,allergy,shivering
+25,arthritis,painful walking
+26,arthritis,movement stiffness
+27,arthritis,muscle weakness
+28,arthritis,swelling joints
+29,arthritis,stiff neck
+30,bronchial asthma,mucoid sputum
+31,bronchial asthma,high fever
+32,bronchial asthma,breathlessness
+33,bronchial asthma,family history
+34,bronchial asthma,fatigue
+35,bronchial asthma,cough
+36,cervical spondylosis,back pain
+37,cervical spondylosis,weakness in limbs
+38,cervical spondylosis,loss of balance
+39,cervical spondylosis,dizziness
+40,cervical spondylosis,neck pain
+41,chicken pox,headache
+42,chicken pox,high fever
+43,chicken pox,lethargy
+44,chicken pox,loss of appetite
+45,chicken pox,mild fever
+46,chicken pox,swelled lymph nodes
+47,chicken pox,itching
+48,chicken pox,malaise
+49,chicken pox,skin rash
+50,chicken pox,fatigue
+51,chicken pox,red spots over body
+52,chronic cholestasis,yellowish skin
+53,chronic cholestasis,itching
+54,chronic cholestasis,vomiting
+55,chronic cholestasis,yellowing of eyes
+56,chronic cholestasis,abdominal pain
+57,chronic cholestasis,nausea
+58,chronic cholestasis,loss of appetite
+59,common cold,sinus pressure
+60,common cold,malaise
+61,common cold,headache
+62,common cold,chest pain
+63,common cold,phlegm
+64,common cold,swelled lymph nodes
+65,common cold,congestion
+66,common cold,high fever
+67,common cold,loss of smell
+68,common cold,muscle pain
+69,common cold,continuous sneezing
+70,common cold,throat irritation
+71,common cold,chills
+72,common cold,redness of eyes
+73,common cold,fatigue
+74,common cold,runny nose
+75,common cold,cough
+76,dengue,nausea
+77,dengue,red spots over body
+78,dengue,muscle pain
+79,dengue,chills
+80,dengue,pain behind the eyes
+81,dengue,back pain
+82,dengue,fatigue
+83,dengue,loss of appetite
+84,dengue,vomiting
+85,dengue,headache
+86,dengue,high fever
+87,dengue,malaise
+88,dengue,joint pain
+89,dengue,skin rash
+90,diabetes ,fatigue
+91,diabetes ,weight loss
+92,diabetes ,excessive hunger
+93,diabetes ,obesity
+94,diabetes ,increased appetite
+95,diabetes ,restlessness
+96,diabetes ,blurred and distorted vision
+97,diabetes ,irregular sugar level
+98,diabetes ,lethargy
+99,diabetes ,polyuria
+100,dimorphic hemmorhoids(piles),constipation
+101,dimorphic hemmorhoids(piles),pain during bowel movements
+102,dimorphic hemmorhoids(piles),bloody stool
+103,dimorphic hemmorhoids(piles),pain in anal region
+104,dimorphic hemmorhoids(piles),irritation in anus
+105,drug reaction,stomach pain
+106,drug reaction,itching
+107,drug reaction,burning micturition
+108,drug reaction,skin rash
+109,drug reaction,spotting  urination
+110,fungal infection,itching
+111,fungal infection,dischromic  patches
+112,fungal infection,nodal skin eruptions
+113,fungal infection,skin rash
+114,gastroenteritis,diarrhoea
+115,gastroenteritis,sunken eyes
+116,gastroenteritis,vomiting
+117,gastroenteritis,dehydration
+118,gerd,stomach pain
+119,gerd,acidity
+120,gerd,cough
+121,gerd,ulcers on tongue
+122,gerd,chest pain
+123,gerd,vomiting
+124,heart attack,chest pain
+125,heart attack,sweating
+126,heart attack,breathlessness
+127,heart attack,vomiting
+128,hepatitis a,dark urine
+129,hepatitis a,yellowing of eyes
+130,hepatitis a,loss of appetite
+131,hepatitis a,abdominal pain
+132,hepatitis a,vomiting
+133,hepatitis a,mild fever
+134,hepatitis a,joint pain
+135,hepatitis a,diarrhoea
+136,hepatitis a,nausea
+137,hepatitis a,muscle pain
+138,hepatitis a,yellowish skin
+139,hepatitis b,yellowing of eyes
+140,hepatitis b,itching
+141,hepatitis b,lethargy
+142,hepatitis b,yellowish skin
+143,hepatitis b,malaise
+144,hepatitis b,loss of appetite
+145,hepatitis b,abdominal pain
+146,hepatitis b,receiving unsterile injections
+147,hepatitis b,yellow urine
+148,hepatitis b,dark urine
+149,hepatitis b,receiving blood transfusion
+150,hepatitis b,fatigue
+151,hepatitis c,yellowish skin
+152,hepatitis c,yellowing of eyes
+153,hepatitis c,nausea
+154,hepatitis c,fatigue
+155,hepatitis c,loss of appetite
+156,hepatitis c,family history
+157,hepatitis d,vomiting
+158,hepatitis d,fatigue
+159,hepatitis d,joint pain
+160,hepatitis d,yellowish skin
+161,hepatitis d,abdominal pain
+162,hepatitis d,nausea
+163,hepatitis d,dark urine
+164,hepatitis d,loss of appetite
+165,hepatitis d,yellowing of eyes
+166,hepatitis e,abdominal pain
+167,hepatitis e,vomiting
+168,hepatitis e,loss of appetite
+169,hepatitis e,dark urine
+170,hepatitis e,high fever
+171,hepatitis e,yellowish skin
+172,hepatitis e,fatigue
+173,hepatitis e,acute liver failure
+174,hepatitis e,stomach bleeding
+175,hepatitis e,yellowing of eyes
+176,hepatitis e,coma
+177,hepatitis e,joint pain
+178,hepatitis e,nausea
+179,hypertension ,chest pain
+180,hypertension ,headache
+181,hypertension ,dizziness
+182,hypertension ,loss of balance
+183,hypertension ,lack of concentration
+184,hyperthyroidism,excessive hunger
+185,hyperthyroidism,mood swings
+186,hyperthyroidism,diarrhoea
+187,hyperthyroidism,weight loss
+188,hyperthyroidism,sweating
+189,hyperthyroidism,muscle weakness
+190,hyperthyroidism,fast heart rate
+191,hyperthyroidism,restlessness
+192,hyperthyroidism,abnormal menstruation
+193,hyperthyroidism,fatigue
+194,hyperthyroidism,irritability
+195,hypoglycemia,excessive hunger
+196,hypoglycemia,drying and tingling lips
+197,hypoglycemia,irritability
+198,hypoglycemia,nausea
+199,hypoglycemia,vomiting
+200,hypoglycemia,palpitations
+201,hypoglycemia,anxiety
+202,hypoglycemia,sweating
+203,hypoglycemia,blurred and distorted vision
+204,hypoglycemia,headache
+205,hypoglycemia,slurred speech
+206,hypoglycemia,fatigue
+207,hypothyroidism,abnormal menstruation
+208,hypothyroidism,cold hands and feets
+209,hypothyroidism,puffy face and eyes
+210,hypothyroidism,enlarged thyroid
+211,hypothyroidism,irritability
+212,hypothyroidism,dizziness
+213,hypothyroidism,depression
+214,hypothyroidism,swollen extremeties
+215,hypothyroidism,fatigue
+216,hypothyroidism,weight gain
+217,hypothyroidism,lethargy
+218,hypothyroidism,mood swings
+219,hypothyroidism,brittle nails
+220,impetigo,blister
+221,impetigo,red sore around nose
+222,impetigo,yellow crust ooze
+223,impetigo,high fever
+224,impetigo,skin rash
+225,jaundice,yellowish skin
+226,jaundice,high fever
+227,jaundice,dark urine
+228,jaundice,abdominal pain
+229,jaundice,itching
+230,jaundice,weight loss
+231,jaundice,fatigue
+232,jaundice,vomiting
+233,malaria,muscle pain
+234,malaria,vomiting
+235,malaria,high fever
+236,malaria,chills
+237,malaria,nausea
+238,malaria,sweating
+239,malaria,diarrhoea
+240,malaria,headache
+241,migraine,excessive hunger
+242,migraine,acidity
+243,migraine,stiff neck
+244,migraine,visual disturbances
+245,migraine,depression
+246,migraine,indigestion
+247,migraine,blurred and distorted vision
+248,migraine,irritability
+249,migraine,headache
+250,osteoarthristis,painful walking
+251,osteoarthristis,neck pain
+252,osteoarthristis,joint pain
+253,osteoarthristis,knee pain
+254,osteoarthristis,swelling joints
+255,osteoarthristis,hip joint pain
+256,paralysis (brain hemorrhage),headache
+257,paralysis (brain hemorrhage),altered sensorium
+258,paralysis (brain hemorrhage),weakness of one body side
+259,paralysis (brain hemorrhage),vomiting
+260,peptic ulcer diseae,abdominal pain
+261,peptic ulcer diseae,passage of gases
+262,peptic ulcer diseae,internal itching
+263,peptic ulcer diseae,loss of appetite
+264,peptic ulcer diseae,indigestion
+265,peptic ulcer diseae,vomiting
+266,pneumonia,rusty sputum
+267,pneumonia,breathlessness
+268,pneumonia,chills
+269,pneumonia,chest pain
+270,pneumonia,fast heart rate
+271,pneumonia,fatigue
+272,pneumonia,sweating
+273,pneumonia,high fever
+274,pneumonia,cough
+275,pneumonia,phlegm
+276,pneumonia,malaise
+277,psoriasis,skin rash
+278,psoriasis,skin peeling
+279,psoriasis,silver like dusting
+280,psoriasis,joint pain
+281,psoriasis,inflammatory nails
+282,psoriasis,small dents in nails
+283,tuberculosis,malaise
+284,tuberculosis,loss of appetite
+285,tuberculosis,sweating
+286,tuberculosis,cough
+287,tuberculosis,weight loss
+288,tuberculosis,vomiting
+289,tuberculosis,phlegm
+290,tuberculosis,chills
+291,tuberculosis,yellowing of eyes
+292,tuberculosis,breathlessness
+293,tuberculosis,high fever
+294,tuberculosis,fatigue
+295,tuberculosis,mild fever
+296,tuberculosis,swelled lymph nodes
+297,tuberculosis,blood in sputum
+298,tuberculosis,chest pain
+299,typhoid,headache
+300,typhoid,vomiting
+301,typhoid,belly pain
+302,typhoid,toxic look (typhos)
+303,typhoid,constipation
+304,typhoid,high fever
+305,typhoid,abdominal pain
+306,typhoid,chills
+307,typhoid,diarrhoea
+308,typhoid,fatigue
+309,typhoid,nausea
+310,urinary tract infection,burning micturition
+311,urinary tract infection,bladder discomfort
+312,urinary tract infection,foul smell of urine
+313,urinary tract infection,continuous feel of urine
+314,varicose veins,swollen legs
+315,varicose veins,fatigue
+316,varicose veins,prominent veins on calf
+317,varicose veins,cramps
+318,varicose veins,swollen blood vessels
+319,varicose veins,obesity
+320,varicose veins,bruising

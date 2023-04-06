@@ -1,0 +1,5 @@
+{
+    "uri" : "bolt://18.209.214.57:7687",
+    "user" : "neo4j",
+    "password" : "tackles-originators-lockers"
+}
